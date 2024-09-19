@@ -1,11 +1,11 @@
 # Sequential ALU verification using cocotb
 ## Table of contents
-- Design RTL
-- Makefile
-- libraries Import
-- Clock Generation and Design Instantiation
-- Driving Stimulus
-- Output Log
+- [Design RTL](#design-rtl)
+- [Makefile](#makefile)
+- [libraries Import](#libraries-import)
+- [Clock Generation and Design Instantiation](#clock-generation-and-design-instantiation)
+- [Driving Stimulus](#driving-stimulus)
+- [Output Log](#output-log)
 ## Design RTL
 The design is a simple Sequential ALU that do operations on input according to the opcode
 
